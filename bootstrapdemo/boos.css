@@ -1,0 +1,20 @@
+
+
+.backgroundimage{
+	background-image: url("C:\Users\hp\Desktop\Image\home.jpeg.jpeg");
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.leftnav, li{
+	list-style-type: none;
+	float: left;
+}
+.rightnav, li{
+list-style-type: none;
+	float: right;	
+}
+.navlist{
+	text-decoration: none;
+	padding: 10px;
+}

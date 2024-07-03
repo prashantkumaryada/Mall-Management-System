@@ -1,0 +1,26 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background: #ff0000;
+}
+
+.slider {
+    width: 800px;
+    height: 400px;
+    
+    background:url(Abstract1.jpg);
+    margin: 100px auto;
+    animation: slide 20s infinite;
+    
+}
+@keyframes slides{
+    25% {
+        background: url(Abstract1.jpg);
+    }
+    50% {
+        background: url(Abstract1.jpg);
+    }
+    100% {
+        background: url(Abstract1.jpg);
+    }
+}
